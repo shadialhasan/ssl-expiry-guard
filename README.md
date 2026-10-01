@@ -1,5 +1,8 @@
 # 🛡️ ssl-expiry-guard
 
+> **Topics:** `ssl-certificate` `tls` `expiry-monitor` `devops` `sysadmin` `security-audit` `uptime-monitoring`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/ssl-expiry-guard/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Zero Dependency](https://img.shields.io/badge/Dependencies-Zero-brightgreen.svg)](https://github.com/MobileConduit)

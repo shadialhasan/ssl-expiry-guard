@@ -1,0 +1,12 @@
+{
+  "description": "Fleet SSL certificate expiration scanner inspecting TLS handshakes and issuing advance renewal alerts",
+  "topics": [
+    "ssl-certificate",
+    "tls",
+    "expiry-monitor",
+    "devops",
+    "sysadmin",
+    "security-audit",
+    "uptime-monitoring"
+  ]
+}
