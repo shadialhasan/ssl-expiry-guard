@@ -3,10 +3,10 @@
 > **Topics:** `ssl-certificate` `tls` `expiry-monitor` `devops` `sysadmin` `security-audit` `uptime-monitoring`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/ssl-expiry-guard/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/ssl-expiry-guard/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Zero Dependency](https://img.shields.io/badge/Dependencies-Zero-brightgreen.svg)](https://github.com/MobileConduit)
-[![CI / CD](https://github.com/MobileConduit/ssl-expiry-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/ssl-expiry-guard/actions)
+[![Zero Dependency](https://img.shields.io/badge/Dependencies-Zero-brightgreen.svg)](https://github.com/shadialhasan)
+[![CI / CD](https://github.com/shadialhasan/ssl-expiry-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/ssl-expiry-guard/actions)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python)](https://python.org)
 [![Security: TLS/SSL](https://img.shields.io/badge/Security-TLS%201.3%20%2F%20SSL-brightgreen.svg)](https://en.wikipedia.org/wiki/Transport_Layer_Security)
 
@@ -81,7 +81,7 @@ flowchart TD
 
 Clone the repository:
 ```bash
-git clone https://github.com/MobileConduit/ssl-expiry-guard.git
+git clone https://github.com/shadialhasan/ssl-expiry-guard.git
 cd ssl-expiry-guard
 ```
 
@@ -176,7 +176,7 @@ The test suite validates:
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
