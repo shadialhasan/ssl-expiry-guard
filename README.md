@@ -1,5 +1,6 @@
 # 🛡️ ssl-expiry-guard
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/ssl-expiry-guard/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Zero Dependency](https://img.shields.io/badge/Dependencies-Zero-brightgreen.svg)](https://github.com/MobileConduit)
 [![CI / CD](https://github.com/MobileConduit/ssl-expiry-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/ssl-expiry-guard/actions)
