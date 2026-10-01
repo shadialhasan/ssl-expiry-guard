@@ -19,8 +19,8 @@ def get_ssl_expiry_days(domain: str, port: int = 443) -> int:
             cert = ssock.getpeercert()
             not_after = cert['notAfter']
             # Format: 'May 15 12:00:00 2026 GMT'
-            exp_date = datetime.datetime.strptime(not_after, "%b %d %H:%M:%S %Y %Z")
-            remaining = exp_date - datetime.datetime.utcnow()
+            exp_date = datetime.datetime.strptime(not_after, "%b %d %H:%M:%S %Y %Z").replace(tzinfo=datetime.timezone.utc)
+            remaining = exp_date - datetime.datetime.now(datetime.timezone.utc)
             return remaining.days
 
 def audit_domains(domains: list, alert_threshold=15):
